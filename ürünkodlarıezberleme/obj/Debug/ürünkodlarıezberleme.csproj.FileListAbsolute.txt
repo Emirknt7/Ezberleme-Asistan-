@@ -1,0 +1,7 @@
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\bin\Debug\ürünkodlarıezberleme.exe.config
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\bin\Debug\ürünkodlarıezberleme.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\bin\Debug\ürünkodlarıezberleme.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\obj\Debug\ürünkodlarıezberleme.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\obj\Debug\ürünkodlarıezberleme.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\obj\Debug\ürünkodlarıezberleme.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\ürünkodlarıezberleme\obj\Debug\ürünkodlarıezberleme.pdb
